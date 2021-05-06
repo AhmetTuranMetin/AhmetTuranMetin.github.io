@@ -1,0 +1,30 @@
+# Site settings
+title: "Futbol Gündemi"
+email: ornek@gmail.com
+url: https://AhmetTuranMetin.github.io
+description: "Önemli spor yorumcularının değerli yorumlarıyla, futbolun geleceği, türk futbolu gibi daha birçok konunun konuşulacağı bu etkinlikte sizi de aramızda görmek isteriz."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Örnek Etkinlik Web Sitesidir..
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: 
+  - title: bitbucket
+    url: 
+  - title: github
+    url: https://github.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
